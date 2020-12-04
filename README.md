@@ -35,5 +35,6 @@
 6.  License:
     - MIT
 
-![](./Assets/team_profile_generator.gif)
-![](./Assets/team_profile_generator.png)
+![](./Assets/myteam.gif)
+![](./Assets/myteam_screenshot.png)
+![](./Assets/team_profile_generator_screen_shot.png)
